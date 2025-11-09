@@ -1,0 +1,6 @@
+name = input("Enter your name:")
+int = int(input("Enter your roll no:"))
+float = float(input("Enter your marks:"))
+print("NAME :",name)
+print("ROLL NO :",int)
+print("MARKS :",float)
